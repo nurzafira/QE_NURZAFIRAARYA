@@ -1,1 +1,1 @@
-menambahkan fitur pada branch feature_a
+menambahkan fitur pada branch feature_a dan b
